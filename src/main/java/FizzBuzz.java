@@ -11,7 +11,7 @@ public class FizzBuzz {
       if (counter % 5 == 0){
         System.out.println("Buzz");
       if (counter % 3 == 0 && counter % 5 == 0){
-        System.out.println("Fizz Buzz");
+        System.out.println("Fizz Buzz!");
       }
       }
       }
